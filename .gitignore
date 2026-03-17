@@ -1,0 +1,15 @@
+venv/
+env/
+node_modules/
+dataset/
+data/
+models/
+*.pyc
+*.mp4
+*.zip
+*.pt
+*.pth
+*.h5
+*.csv
+__pycache__/
+.env

@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python
+yt-dlp
+scenedetect[opencv]
+ultralytics
+openai-whisper
+sentence-transformers
+groq
+python-dotenv
+ffmpeg-python
+numpy
+Pillow
